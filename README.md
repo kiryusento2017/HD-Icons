@@ -1,12 +1,12 @@
 <p align="center">
   <h3 align = "center" > 高清仪表盘图标 </h3>
   <p align="center">
-    <!-- <a href="https://www.jsdelivr.com/package/gh/xushier/HD-Icons">
-      <img src="https://data.jsdelivr.com/v1/package/gh/xushier/HD-Icons/badge?style=rounded"/>
+    <!-- <a href="https://www.jsdelivr.com/package/gh/kiryusento2017/HD-Icons">
+      <img src="https://data.jsdelivr.com/v1/package/gh/kiryusento2017/HD-Icons/badge?style=rounded"/>
     </a> -->
-      <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xushier/HD-Icons?color=green&logo=github">
+      <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/kiryusento2017/HD-Icons?color=green&logo=github">
       <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xushier/HD-Icons">
-      <a href="https://www.youtube.com/channel/UCPj4GP1FxDt0I23GhctHRFA"><img alt="GitHub issues" src="https://img.shields.io/github/issues/xushier/HD-Icons?logo=github"></a>
+      <a href="https://www.youtube.com/channel/UCPj4GP1FxDt0I23GhctHRFA"><img alt="GitHub issues" src="https://img.shields.io/github/issues/kiryusento2017/HD-Icons?logo=github"></a>
   </p>
 
   <p align="center">
@@ -61,12 +61,12 @@
    - ~~例如：`https://gitee.com/xiaodid/HD-Icons/raw/main/border-radius/xxxxx.png`~~
 
 2. 使用 Github 原始的图标链接，适用于可以访问 Github 的用户。
-   - Github 项目地址：https://github.com/xushier/HD-Icons
-   - 例如：`https://raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/xxxxx.png`
+   - Github 项目地址：https://github.com/kiryusento2017/HD-Icons
+   - 例如：`https://raw.githubusercontent.com/kiryusento2017/HD-Icons/main/border-radius/xxxxx.png`
 
 3. 使用代理或 CDN 加速地址，适用于不能访问 Github 但想要使用 Github 图标源的用户。
-   - 例如：`https://ghproxy.com/raw.githubusercontent.com/xushier/HD-Icons/main/border-radius/xxxxx.png`
-   - 又或者：`https://cdn.jsdelivr.net/gh/xushier/HD-Icons/border-radius/xxxxx.png`
+   - 例如：`https://ghproxy.com/raw.githubusercontent.com/kiryusento2017/HD-Icons/main/border-radius/xxxxx.png`
+   - 又或者：`https://cdn.jsdelivr.net/gh/kiryusento2017/HD-Icons/border-radius/xxxxx.png`
 
 - 将以上地址最后的 xxxxx 换成对应的图标名称即可。<a href="#圆角矩形图标"><strong>图标名称预览在此 »</strong></a>
 - **或者直接到 https://cdn.jsdelivr.net/gh/xushier/HD-Icons/ 查看获取。**
@@ -78,12 +78,12 @@
 # 图标预览（当前共计 1221 个）
 ## 圆角矩形图标
 <!-- START BORDER-RADIUS ICONS -->
-<img src="https://github.com/xushier/HD-Icons/blob/main/_icons-radius.png" alt="radius">
+<img src="https://github.com/kiryusento2017/HD-Icons/blob/main/_icons-radius.png" alt="radius">
 <!-- END BORDER-RADIUS ICONS -->
 
 ## 圆形图标
 <!-- START CIRCLE ICONS -->
-<img src="https://github.com/xushier/HD-Icons/blob/main/_icons-circle.png" alt="circle">
+<img src="https://github.com/kiryusento2017/HD-Icons/blob/main/_icons-circle.png" alt="circle">
 <!-- END CIRCLE ICONS -->
 
 ## SVG 图标
@@ -96,7 +96,7 @@
 
 # 赞助（备注：图标）
 
-<img src="https://github.com/xushier/HD-Icons/blob/main/_DONATE_A.jpg?raw=true" alt="_DONATE_A" width="400" height="600"><img src="https://github.com/xushier/HD-Icons/blob/main/_DONATE_W.jpg?raw=true" alt="_DONATE_W" width="400" height="600">
+<img src="https://github.com/kiryusento2017/HD-Icons/blob/main/_DONATE_A.jpg?raw=true" alt="_DONATE_A" width="400" height="600"><img src="https://github.com/xushier/HD-Icons/blob/main/_DONATE_W.jpg?raw=true" alt="_DONATE_W" width="400" height="600">
 
 # 声明
 (Almost) All product names, trademarks and registered trademarks in the images in this repository, are property of their respective owners. All images in this repository are used by the users of the Dashboard Icons project for identification purposes only.
